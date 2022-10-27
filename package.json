@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JayJay-Huang/my_nodeJs/issues"
   },
-  "homepage": "https://github.com/JayJay-Huang/my_nodeJs#readme"
+  "homepage": "https://github.com/JayJay-Huang/my_nodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
