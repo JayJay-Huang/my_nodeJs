@@ -1,0 +1,19 @@
+{
+  "name": "my_nodejs",
+  "version": "1.0.0",
+  "description": "https://nodejs.org/en/download/\r ```\r node –v  // 查看版本\r npm -v  // 查看npm\r npm install npm -g // Win更新最新版本\r ```",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayJay-Huang/my_nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayJay-Huang/my_nodeJs/issues"
+  },
+  "homepage": "https://github.com/JayJay-Huang/my_nodeJs#readme"
+}
