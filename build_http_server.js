@@ -10,5 +10,3 @@ const server = http.createServer((req, res) => {
     res.end(vResopnse);
 });
 
-
-const app = require('express')();
