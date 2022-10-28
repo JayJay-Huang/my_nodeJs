@@ -16,5 +16,5 @@ app.use('/url',
 app.listen(SERVER_PORT,startListen);
 
 function startListen() {
-    console.log('listen', 'Now listening on port' + '192.168.85.1:' + SERVER_PORT )
+    console.log('listen', 'Now listening on port' + '(your ip):' + SERVER_PORT )
 };
