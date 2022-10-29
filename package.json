@@ -2,7 +2,7 @@
   "name": "my_nodejs",
   "version": "1.0.0",
   "description": "https://nodejs.org/en/download/\r ```\r node –v  // 查看版本\r npm -v  // 查看npm\r npm install npm -g // Win更新最新版本\r ```",
-  "main": "index.js",
+  "main": "./API_OUT/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
